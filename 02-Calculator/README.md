@@ -37,7 +37,7 @@ This **interactive and intuitive** Calculator App is designed to provide an easy
 - **Error handling** ensures the user experience is seamless 🚫
 
 ## 🌐 **Live Preview**  
-🔗 **Display Link:** [Your App Preview Link Here]
+🔗 **Display Link:** [https://calculator-jade-kappa.vercel.app/]
 
 ## 🔮 **Future Enhancements**
 - 🚀 Add **advanced functions** like square roots, powers, etc.  
