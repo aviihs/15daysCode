@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #dbe9ff;
+    font-family: "Roboto Mono", monospace;
+}
+nav {
+    width: 100%;
+    background: linear-gradient(90deg, #007bff, #00c6ff);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+.container {
+    background-color: #f0f9ff;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    width: min(90%, 31.25em);
+    padding: 3.75em 0;
+    border-radius: 0.8em;
+    box-shadow: 0 1.97em 3.75em rgba(1, 87, 185, 0.2);
+}
+
+.timeDisplay {
+    width: 110%;
+    background: linear-gradient(90deg, #007bff, #00c6ff);
+    padding: 1em 0;
+    font-size: 2em;
+    text-align: center;
+    color: #f0f9ff;
+    border-radius: 0.3em;
+    box-shadow: 0 0.5em 1em rgba(1, 87, 185, 0.2);
+    margin-left: -5%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 3.9em auto 0 auto;
+}
+
+.buttons button {
+    padding: 1em 1.5em;
+    font-size: 1.15em;
+    border: none;
+    border-radius: 0.5em;
+    background-color: #dbe9ff;
+    color: #3c98ff;
+    cursor: pointer;
+    box-shadow: 0 0.5em 1em rgba(1, 87, 185, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+.buttons button:hover {
+    background-color: #3c98ff;
+    color: #f0f9ff;
+    transform: scale(1.1);
+}
+
+/* Active Button Effect */
+.buttons button.active {
+    transform: scale(1.2);
+    background-color: #3c98ff;
+    color: #f0f9ff;
+    box-shadow: 0 0.7em 1.5em rgba(1, 87, 185, 0.4);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(90deg, #007bff, #00c6ff);
+    color: white;
+    font-size: 1em;
+    font-family: sans-serif;
+}
+footer a {
+    color: black;
+    text-decoration: none;
+  }
+  footer i {
+    font-size: 1.5rem; 
+    transition: transform 0.3s ease-in-out, color 0.3s ease;  
+  }
+  footer i:hover {
+    transform: scale(1.6);  
+  }
+  footer a:hover .fa-instagram {
+    color: #e1306c;  
+  }
+  footer a:hover .fa-github {
+    color: #24292f;  
+  }
