@@ -36,7 +36,7 @@ This **simple yet powerful** To-Do List App is designed to help you stay organiz
 - **Perfect for Daily Productivity** ⏳
 
 ## 🌐 Live Preview
-🔗 **Display Link:** [https://todolist-sage-one.vercel.app/]  
+🔗 **Display Link:** [https://todoapp-gules-tau.vercel.app/]  
 
 ## 🔮 Future Enhancements
 🚀 Add **due dates** for tasks  
