@@ -23,8 +23,8 @@ A fully functional **To-Do List** where users can add, check, and delete tasks w
 - ✅ Mark tasks as completed
 - ✅ Data persistence using **localStorage**
 
-🔗 **Live Demo:** [To-Do App](https://todoapp-gules-tau.vercel.app/)
-📂 **Source Code:** [GitHub](https://github.com/aviihs/30daysCode/tree/main/01-todoapp)
+🔗 **Live Demo:** [To-Do App](https://todoapp-gules-tau.vercel.app/)  
+📂 **Source Code:** [GitHub/To-Do List](https://github.com/aviihs/30daysCode/tree/main/01-todoapp)
 
 ---
 
@@ -36,8 +36,8 @@ A simple yet powerful **Calculator App** with basic arithmetic operations.
 - ✅ Supports decimals and percentage calculations
 - ✅ Keyboard support for smooth user experience
 
-🔗 **Live Demo:** [Calculator App](https://calculator-jade-kappa.vercel.app/)
-📂 **Source Code:** [GitHub](https://github.com/aviihs/30daysCode/tree/main/02-Calculator)
+🔗 **Live Demo:** [Calculator App](https://calculator-jade-kappa.vercel.app/)  
+📂 **Source Code:** [GitHub/Calculator](https://github.com/aviihs/30daysCode/tree/main/02-Calculator)
 
 ---
 
@@ -50,8 +50,8 @@ A **Stopwatch App** that accurately tracks time with start, stop, and reset func
 - ✅ Smooth and interactive UI with button animations
 - ✅ Responsive design for different screen sizes
 
-🔗 **Live Demo:** [Stopwatch App](https://stopwatch-five-zeta.vercel.app/)
-📂 **Source Code:** [GitHub](https://github.com/aviihs/30daysCode/tree/main/03-Stopwatch)
+🔗 **Live Demo:** [Stopwatch App](https://stopwatch-five-zeta.vercel.app/)  
+📂 **Source Code:** [GitHub/Stopwatch](https://github.com/aviihs/30daysCode/tree/main/03-Stopwatch)
 
 ---
 
@@ -64,8 +64,8 @@ A **real-time Digital Clock** that displays the current time and date with a 12/
 - ✅ Animated UI with smooth background transitions
 - ✅ Responsive and user-friendly design
 
-🔗 **Live Demo:** [Digital Clock App](https://digital-clock.vercel.app/)
-📂 **Source Code:** [GitHub](https://github.com/aviihs/30daysCode/tree/main/04-DigitalClock)
+🔗 **Live Demo:** [Digital Clock App](https://digital-clock.vercel.app/)  
+📂 **Source Code:** [GitHub/DigitalClock](https://github.com/aviihs/30daysCode/tree/main/04-DigitalClock)
 
 ---
 
