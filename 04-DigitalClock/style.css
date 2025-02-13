@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #dbe9ff;
+  font-family: "Arial", sans-serif;
+  flex-direction: column;
+}
+nav {
+  width: 100%;
+  background: linear-gradient(90deg, #007bff, #00c6ff);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  position: absolute;
+  top: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#head{
+  color: white;
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
+}
+.clock-container {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1.4em;
+  border-radius: 0.7em;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.clock {
+  font-size: 3.5em;
+  margin-bottom: 10px;
+  color: wheat;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  transition: all 0.5s ease;
+}
+.date {
+  font-size: 1.4em;
+  color: #fff;
+  margin-bottom: 20px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background: linear-gradient(90deg, #007bff, #00c6ff);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+button:hover {
+  background-color: #0056b3;
+  color: black;
+  font-size: medium;
+  transform: scale(1.05);
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  background: linear-gradient(90deg, #007bff, #00c6ff);
+  color: white;
+  font-size: 1em;
+  font-family: sans-serif;
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
+}
+footer a {
+  color: black;
+  text-decoration: none;
+  text-shadow: none;
+}
+footer i {
+  font-size: 1.5rem;
+  transition: transform 0.3s ease-in-out, color 0.3s ease;
+}
+footer i:hover {
+  transform: scale(1.6);
+}
+footer a:hover .fa-instagram {
+  color: #e1306c;
+}
+footer a:hover .fa-github {
+  color: #24292f;
+}
