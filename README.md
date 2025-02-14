@@ -69,6 +69,10 @@ A **real-time Digital Clock** that displays the current time and date with a 12/
 
 ---
 
+### 🕒 Day 5: LOADING;
+
+---
+
 ## ⏳ What’s Next?  
 📅 **Day 5 & Beyond:** More exciting projects are coming! Each day, I'll add a new mini-project that enhances my skills in **vanilla JavaScript**. Stay tuned for **creative animations, interactive UI components, and small web apps!** 🚀🔥
 
