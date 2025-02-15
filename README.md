@@ -4,93 +4,109 @@ Welcome to my **30 Days - 30 Projects Challenge!** 🎯
 
 In the next 30 days, I will be building and uploading a new project every single day using **HTML, CSS, and JavaScript**. The goal? To sharpen my skills, explore creative ideas, and push myself to master front-end development.
 
----
-
 ## 📌 Why This Challenge?
 ✅ **Practice makes perfect** – Coding every day will help me write cleaner, more efficient code.  
-✅ **Real-world experience** – By the end of this, I'll have **30 mini-projects** that showcase my skills.  
-✅ **Consistency is key** – Building daily will make JavaScript feel like second nature.  
+✅ **Real-world experience** – By the end of this, I'll have 30 mini-projects that showcase my skills.  
+✅ **Consistency is key** – Building daily will make JavaScript feel like second nature.
 
 ---
 
 ## 🗓️ Project Roadmap
 
 ### 🚀 Day 1: To-Do List App 📝
-A fully functional **To-Do List** where users can add, check, and delete tasks with **localStorage support**!
+A fully functional To-Do List where users can add, check, and delete tasks with localStorage support!
 
 🔹 **Features:**
 - ✅ Add & remove tasks  
 - ✅ Mark tasks as completed  
-- ✅ Data persistence using **localStorage**  
+- ✅ Data persistence using localStorage  
 
-🔗 **Live Demo:** [To-Do App](https://todoapp-gules-tau.vercel.app/)  
-📂 **Source Code:** [GitHub/To-Do List](https://github.com/aviihs/30daysCode/tree/main/01-todoapp)
+🔗 **Live Demo**: [To-Do App](#)  
+📂 **Source Code**: [GitHub/To-Do List](#)
 
 ---
 
 ### ⚡ Day 2: Calculator App 🧮
-A simple yet powerful **Calculator App** with basic arithmetic operations.
+A simple yet powerful Calculator App with basic arithmetic operations.
 
 🔹 **Features:**
 - ✅ Addition, Subtraction, Multiplication, Division  
 - ✅ Supports decimals and percentage calculations  
 - ✅ Keyboard support for smooth user experience  
 
-🔗 **Live Demo:** [Calculator App](https://calculator-jade-kappa.vercel.app/)  
-📂 **Source Code:** [GitHub/Calculator](https://github.com/aviihs/30daysCode/tree/main/02-Calculator)
+🔗 **Live Demo**: [Calculator App](https://calculator-jade-kappa.vercel.app/)  
+📂 **Source Code**: [GitHub/Calculator](#)
 
 ---
 
 ### ⏱️ Day 3: Stopwatch App ⏳
-A **Stopwatch App** that accurately tracks time with start, stop, and reset functionalities.
+A Stopwatch App that accurately tracks time with start, stop, and reset functionalities.
 
 🔹 **Features:**
 - ✅ Start, Stop, and Reset functionality  
-- ✅ Displays **hours, minutes, seconds, and milliseconds**  
+- ✅ Displays hours, minutes, seconds, and milliseconds  
 - ✅ Smooth and interactive UI with button animations  
 - ✅ Responsive design for different screen sizes  
 
-🔗 **Live Demo:** [Stopwatch App](https://stopwatch-five-zeta.vercel.app/)  
-📂 **Source Code:** [GitHub/Stopwatch](https://github.com/aviihs/30daysCode/tree/main/03-Stopwatch)
+🔗 **Live Demo**: [Stopwatch App](https://stopwatch-five-zeta.vercel.app/)  
+📂 **Source Code**: [GitHub/Stopwatch](#)
 
 ---
 
 ### 🕒 Day 4: Digital Clock App 🕰️
-A **real-time Digital Clock** that displays the current time and date with a 12/24-hour format switch.
+A real-time Digital Clock that displays the current time and date with a 12/24-hour format switch.
 
 🔹 **Features:**
-- ✅ Live **HH:MM:SS** time updates every second  
+- ✅ Live HH:MM:SS time updates every second  
 - ✅ 12-hour / 24-hour format toggle  
 - ✅ Animated UI with smooth background transitions  
 - ✅ Responsive and user-friendly design  
 
-🔗 **Live Demo:** [Digital Clock App](https://digitalclock-pi-three.vercel.app/)  
-📂 **Source Code:** [GitHub/DigitalClock](https://github.com/aviihs/30daysCode/tree/main/04-DigitalClock)
+🔗 **Live Demo**: [Digital Clock App](https://digitalclock-pi-three.vercel.app/)  
+📂 **Source Code**: [GitHub/DigitalClock](#)
 
 ---
 
-### 🕒 Day 5: LOADING;
+### 🕒 Day 5: All-in-One Clock App 🕰️
+This app combines a **Digital Clock**, **Analog Clock**, and a **Stopwatch** with smooth animations and a time format toggle.
+
+🔹 **Features:**
+- ✅ Real-time digital and analog clocks  
+- ✅ 12-hour / 24-hour toggle for time formats  
+- ✅ Stopwatch with start, stop, and reset functionality  
+- ✅ Smooth and interactive UI with animations  
+- ✅ Current date displayed dynamically  
+
+🔗 **Live Demo**: [All-in-One Clock App](https://allclock.vercel.app/)  
+📂 **Source Code**: [GitHub/All-in-One Clock]()
 
 ---
 
-## ⏳ What’s Next?  
-📅 **Day 5 & Beyond:** More exciting projects are coming! Each day, I'll add a new mini-project that enhances my skills in **vanilla JavaScript**. Stay tuned for **creative animations, interactive UI components, and small web apps!** 🚀🔥
+### 🔜 Day 6 & Beyond: More Exciting Projects Coming Soon!
+The challenge doesn't stop here! I'm just getting started with even more interactive, fun, and creative mini-projects. Stay tuned for:
+- 🚀 Interactive animations  
+- 🚀 Cool UI components  
+- 🚀 Fun web apps using **vanilla JavaScript**  
+- 🚀 New and exciting concepts to master each day!
+
+At the end of this journey, I'll release a full-fledged **"30 Days Master JavaScript"** repository with all the code, explanations, and documentation.
 
 ---
 
-## 🔜 What Happens After 30 Days?  
-At the end of this challenge, I'll launch **"30 Days Master JavaScript"**, a full-fledged repository containing all **30 projects**, with explanations, source code, and detailed documentation.
+## 🔧 What Happens After 30 Days?
+After completing the 30-day sprint, I’ll bundle all the projects into a single **master repository**, where you’ll find:
+- 30 detailed projects with explanations and source code  
+- Tips and tricks for mastering JavaScript  
+- Challenges to improve your front-end skills
 
 ---
 
-## 🚀 Follow My Journey!  
-If you want to **learn JavaScript**, improve your **frontend skills**, or just see what I build, feel free to **follow this repo!** 🌟
+## 🚀 Follow My Journey!
+If you want to learn JavaScript, improve your front-end skills, or just see what I build, feel free to follow this repo! 🌟
 
----
+🔹 **Connect With Me**:  
+📧 **Email**: bhusalshiva010@gmail.com  
+📷 **Instagram**: [Shiva Bhusal](#)  
+👨‍💻 **GitHub**: [aviihs](#)
 
-🔹 **Connect With Me:**
-📧 **Email:** bhusalshiva010@gmail.com  
-📷 **Instagram:** [Shiva Bhusal](https://www.instagram.com/av_ihs_/)  
-👨‍💻 **GitHub:** [aviihs](https://github.com/aviihs)  
-
-Stay tuned for more daily uploads! Let’s **code, learn, and grow together!** 🚀🔥
+Stay tuned for more daily uploads! Let's code, learn, and grow together! 🚀🔥
