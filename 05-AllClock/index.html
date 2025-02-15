@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 5 || All-in-One Clock</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/6255/6255876.png">
+</head>
+<body>
+    <nav>
+        <h2>All-in-One Clock</h2>
+    </nav>
+    <div class="clock-container">
+        <div class="analog-clock">
+            <div class="hand hour-hand" id="hour-hand"></div>
+            <div class="hand minute-hand" id="minute-hand"></div>
+            <div class="hand second-hand" id="second-hand"></div>
+            <div class="center-dot"></div>
+        </div>
+        <div class="clock" id="clock">00:00:00</div>
+        <div class="date" id="date">January 01, 2025</div>
+        <button id="toggle-format">Change 12/24 Hour Format</button>
+        <div class="stopwatch-display" id="stopwatch-display">00:00:00:000</div>
+        <div class="stopwatch-buttons">
+            <button class="stopwatch-start">Start</button>
+            <button class="stopwatch-stop">Stop</button>
+            <button class="stopwatch-reset">Reset</button>
+        </div>
+    </div>
+    <footer>
+        <p>Designed by Shiva <a href="https://www.instagram.com/av_ihs/"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://github.com/aviihs"><i class="fa-brands fa-github"></i></a></p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
