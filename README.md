@@ -22,7 +22,7 @@ A fully functional To-Do List where users can add, check, and delete tasks with 
 - ✅ Data persistence using localStorage  
 
 🔗 **Live Demo**: [To-Do App](https://todoapp-gules-tau.vercel.app/)  
-📂 **Source Code**: [GitHub/To-Do List](#)
+📂 **Source Code**: [GitHub/To-Do List](https://github.com/aviihs/30daysCode/tree/main/01-todoapp)
 
 ---
 
@@ -35,7 +35,7 @@ A simple yet powerful Calculator App with basic arithmetic operations.
 - ✅ Keyboard support for smooth user experience  
 
 🔗 **Live Demo**: [Calculator App](https://calculator-jade-kappa.vercel.app/)  
-📂 **Source Code**: [GitHub/Calculator](#)
+📂 **Source Code**: [GitHub/Calculator](https://github.com/aviihs/30daysCode/tree/main/02-Calculator)
 
 ---
 
@@ -49,7 +49,7 @@ A Stopwatch App that accurately tracks time with start, stop, and reset function
 - ✅ Responsive design for different screen sizes  
 
 🔗 **Live Demo**: [Stopwatch App](https://stopwatch-five-zeta.vercel.app/)  
-📂 **Source Code**: [GitHub/Stopwatch](#)
+📂 **Source Code**: [GitHub/Stopwatch](https://github.com/aviihs/30daysCode/tree/main/03-Stopwatch)
 
 ---
 
@@ -57,13 +57,13 @@ A Stopwatch App that accurately tracks time with start, stop, and reset function
 A real-time Digital Clock that displays the current time and date with a 12/24-hour format switch.
 
 🔹 **Features:**
-- ✅ Live HH:MM:SS time updates every second  
+- ✅ Live HR:MIN:SEC time updates every second  
 - ✅ 12-hour / 24-hour format toggle  
 - ✅ Animated UI with smooth background transitions  
 - ✅ Responsive and user-friendly design  
 
 🔗 **Live Demo**: [Digital Clock App](https://digitalclock-pi-three.vercel.app/)  
-📂 **Source Code**: [GitHub/DigitalClock](#)
+📂 **Source Code**: [GitHub/DigitalClock](https://github.com/aviihs/30daysCode/tree/main/04-DigitalClock)
 
 ---
 
@@ -78,7 +78,7 @@ This app combines a **Digital Clock**, **Analog Clock**, and a **Stopwatch** wit
 - ✅ Current date displayed dynamically  
 
 🔗 **Live Demo**: [All-in-One Clock App](https://allclock.vercel.app/)  
-📂 **Source Code**: [GitHub/All-in-One Clock]()
+📂 **Source Code**: [GitHub/All-in-One Clock](https://github.com/aviihs/30daysCode/tree/main/05-AllClock)
 
 ---
 
@@ -106,7 +106,7 @@ If you want to learn JavaScript, improve your front-end skills, or just see what
 
 🔹 **Connect With Me**:  
 📧 **Email**: bhusalshiva010@gmail.com  
-📷 **Instagram**: [Shiva Bhusal](#)  
-👨‍💻 **GitHub**: [aviihs](#)
+📷 **Instagram**: [Shiva Bhusal](https://www.instagram.com/av_ihs_/)  
+👨‍💻 **GitHub**: [aviihs ❤️](https://github.com/aviihs)
 
 Stay tuned for more daily uploads! Let's code, learn, and grow together! 🚀🔥
