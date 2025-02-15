@@ -21,7 +21,7 @@ A fully functional To-Do List where users can add, check, and delete tasks with 
 - ✅ Mark tasks as completed  
 - ✅ Data persistence using localStorage  
 
-🔗 **Live Demo**: [To-Do App](#)  
+🔗 **Live Demo**: [To-Do App](https://todoapp-gules-tau.vercel.app/)  
 📂 **Source Code**: [GitHub/To-Do List](#)
 
 ---
