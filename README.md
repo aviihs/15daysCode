@@ -7,7 +7,7 @@ In the next 30 days, I will be building and uploading a new project every single
 ## 📌 Why This Challenge?
 ✅ **Practice makes perfect** – Coding every day will help me write cleaner, more efficient code.  
 ✅ **Real-world experience** – By the end of this, I'll have 30 mini-projects that showcase my skills.  
-✅ **Consistency is key** – Building daily will make JavaScript feel like second nature.
+✅ **Consistency is key** – Building daily will make JavaScript feel like second nature.  
 
 ---
 
