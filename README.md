@@ -11,7 +11,7 @@ In the next 30 days, I will be building and uploading a new project every single
 
 ---
 
-## 🗓️ Project Roadmap
+## 📏 Project Roadmap
 
 ### 🚀 Day 1: To-Do List App 📝
 A fully functional To-Do List where users can add, check, and delete tasks with localStorage support!
@@ -82,31 +82,49 @@ This app combines a **Digital Clock**, **Analog Clock**, and a **Stopwatch** wit
 
 ---
 
-### 🔜 Day 6 & Beyond: More Exciting Projects Coming Soon!
-The challenge doesn't stop here! I'm just getting started with even more interactive, fun, and creative mini-projects. Stay tuned for:
-- 🚀 Interactive animations  
-- 🚀 Cool UI components  
-- 🚀 Fun web apps using **vanilla JavaScript**  
-- 🚀 New and exciting concepts to master each day!
+### 🎭 Day 6: Hoverboard Effect 🛠️
+A fun interactive Hoverboard effect where squares light up in different colors when hovered over.
 
-At the end of this journey, I'll release a full-fledged **"30 Days Master JavaScript"** repository with all the code, explanations, and documentation.
+🔹 **Features:**
+- ✅ Generates a grid of colored squares dynamically  
+- ✅ Hover effect changes colors randomly  
+- ✅ Smooth transition back to default color  
+- ✅ Interactive and visually appealing  
+
+🔗 **Live Demo**: [Hoverboard Effect](https://hoverboard-taupe.vercel.app/)  
+📂 **Source Code**: [GitHub/Hoverboard](https://github.com/aviihs/30daysCode/tree/main/06-HoverBoard)
 
 ---
 
-## 🔧 What Happens After 30 Days?
-After completing the 30-day sprint, I’ll bundle all the projects into a single **master repository**, where you’ll find:
+### 💪 Day 7 & Beyond: More Exciting Projects Coming Soon!
+The journey continues! Here’s what’s coming next:
+
+- ⚡ Interactive animations and UI components  
+- 🎉 Fun web apps using **vanilla JavaScript**  
+- 🛠️ More advanced JavaScript concepts  
+- ✨ Beautiful, responsive UI designs  
+
+At the end of this **30-day challenge**, I’ll release a full-fledged **"30 Days Master JavaScript"** repository with:
 - 30 detailed projects with explanations and source code  
 - Tips and tricks for mastering JavaScript  
-- Challenges to improve your front-end skills
+- Challenges to improve your front-end skills  
+
+---
+
+## 🛠️ What Happens After 30 Days?
+After completing the challenge, I’ll bundle everything into a **master repository**, including:
+- **Comprehensive documentation** for all projects  
+- **Advanced JavaScript best practices**  
+- **Real-world coding exercises**  
 
 ---
 
 ## 🚀 Follow My Journey!
 If you want to learn JavaScript, improve your front-end skills, or just see what I build, feel free to follow this repo! 🌟
 
-🔹 **Connect With Me**:  
+🔹 **Connect With Me:**  
 📧 **Email**: bhusalshiva010@gmail.com  
-📷 **Instagram**: [Shiva Bhusal](https://www.instagram.com/av_ihs_/)  
+📸 **Instagram**: [Shiva Bhusal](https://www.instagram.com/av_ihs_/)  
 👨‍💻 **GitHub**: [aviihs ❤️](https://github.com/aviihs)
 
-Stay tuned for more daily uploads! Let's code, learn, and grow together! 🚀🔥
+Stay tuned for more daily uploads! Let’s code, learn, and grow together! 🚀🔥
