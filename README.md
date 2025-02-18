@@ -96,7 +96,13 @@ A fun interactive Hoverboard effect where squares light up in different colors w
 
 ---
 
-### 💪 Day 7 & Beyond: More Exciting Projects Coming Soon!
+### 💪 Day 7 :
+
+
+
+---
+
+### & Beyond: More Exciting Projects Coming Soon!
 The journey continues! Here’s what’s coming next:
 
 - ⚡ Interactive animations and UI components  
