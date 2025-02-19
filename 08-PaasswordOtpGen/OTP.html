@@ -1,23 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Day 8 || OTP Generator</title>
-    <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="https://e7.pngegg.com/pngimages/708/705/png-clipart-password-manager-password-safe-android-blue-electric-blue-thumbnail.png">
-  </head>
-
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP Generator</title>
+    <link rel="stylesheet" href="otp.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3063/3063821.png">
+</head>
+<body>
     <nav>
-      <h2>OTP Generator</h2>
+        <h2>OTP Generator</h2>
     </nav>
     
-
-
+    <main>
+        <div class="container">
+            <h3>Generate a Secure OTP</h3>
+            <div class="otp-box">
+                <input type="text" id="otp" readonly>
+                <button onclick="copyOTP()"><i class="fa-solid fa-copy"></i></button>
+            </div>
+            <button class="btn" onclick="generateOTP()">Generate OTP</button>
+        </div>
+    </main>
+    
     <footer>
-      <p>&copy; 2021 | Designed by Shiva <a href="https://www.instagram.com/av_ihs/"><i class="fa-brands fa-instagram"></i></a>
-        <a href="https://www.github.com/aviihs"><i class="fa-brands fa-github"></i></a></p>
-          </footer>
-  </body>
+        <p>&copy; 2025 | Designed by Shiva 
+            <a href="https://www.instagram.com/av_ihs/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.github.com/aviihs"><i class="fa-brands fa-github"></i></a>
+        </p>
+    </footer>
+    
+    <script src="otp.js"></script>
+</body>
 </html>
