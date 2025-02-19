@@ -23,7 +23,8 @@ This repository contains the **README documentation only** for **Day 9** of the 
 - 🚀 Dark Mode for better visibility at night 🌙  
 - 🚀 Password Strength Indicator for security feedback 🔑  
 - 🚀 Save & Retrieve Previous OTPs and Passwords 📄  
-- 🚀 Integration with Authentication Systems 🛡️  
+- 🚀 Integration with Authentication Systems 🛡️
+  
 
 ## 🎉 Conclusion
 This day was all about **refining and perfecting** the OTP & Password Generator App! The **finalized version** is now **fully functional, responsive, and ready for use**. Looking forward to more challenges ahead! 🚀💪  
