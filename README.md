@@ -96,29 +96,31 @@ A fun interactive Hoverboard effect where squares light up in different colors w
 
 ---
 
-### 💪 Day 7 :
+### 🌦 Day 7: Weather App
+A weather app that fetches real-time weather data using the **OpenWeatherMap API**.
 
+🔹 **Features:**
+- ✅ Search for any city worldwide 🌍  
+- ✅ Display current temperature, conditions, and weather icons 🌤️  
+- ✅ Responsive and modern UI 📱💻  
+- ✅ Error handling for invalid city searches ❌  
 
+🔗 **Live Demo**: [Weather App](https://weatherapp-eight-kohl.vercel.app/)  
+📂 **Source Code**: [GitHub/WeatherApp](https://github.com/aviihs/30daysCode/tree/main/07-WeatherApp)
 
 ---
 
-### 🔐Day 8: 
+### 🔐 Day 8 & 9: OTP & Password Generator
+A secure and efficient OTP & Password generator with clipboard functionality.
 
+🔹 **Features:**
+- ✅ Generate secure OTPs (6 digits) 🔒  
+- ✅ Generate strong passwords with custom rules 🔑  
+- ✅ Copy to clipboard for easy usage 📄  
+- ✅ Beautiful UI design 🎨  
 
----
-
-### Day 9& Beyond: More Exciting Projects Coming Soon!
-The journey continues! Here’s what’s coming next:
-
-- ⚡ Interactive animations and UI components  
-- 🎉 Fun web apps using **vanilla JavaScript**  
-- 🛠️ More advanced JavaScript concepts  
-- ✨ Beautiful, responsive UI designs  
-
-At the end of this **30-day challenge**, I’ll release a full-fledged **"30 Days Master JavaScript"** repository with:
-- 30 detailed projects with explanations and source code  
-- Tips and tricks for mastering JavaScript  
-- Challenges to improve your front-end skills  
+🔗 **Live Demo**: [OTP & Password Generator](https://password-otp-generator.vercel.app/)  
+📂 **Source Code**: [GitHub/OTP & Password Generator](https://github.com/aviihs/30daysCode/tree/main/08-PaasswordOtpGen)
 
 ---
 
