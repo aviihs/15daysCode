@@ -44,7 +44,7 @@ This **Calendar App** is a simple and intuitive calendar interface that allows u
 - ✅ **Responsive Design for All Devices** 📱💻  
 
 ## 🌐 Live Preview
-🔗 **Display Link:** [Calendar App](https://calendar-app-link.vercel.app/) (placeholder)
+🔗 **Display Link:** [Calendar App](https://calender-rouge.vercel.app/)  
 
 ## 🔮 Future Enhancements
 - 🚀 **Dark Mode** for better visibility at night 🌙  
