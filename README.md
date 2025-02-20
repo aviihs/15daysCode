@@ -134,7 +134,7 @@ A simple and interactive calendar that allows users to navigate months, view cur
 - ✅ Highlight today's date 🌟  
 - ✅ Responsive design for all devices 📱💻
 
-🔗 **Live Demo**: [Calendar App](https://calender-rouge.vercel.app/) (placeholder)  
+🔗 **Live Demo**: [Calendar App](https://calender-rouge.vercel.app/)   
 📂 **Source Code**: [GitHub/CalendarApp](https://github.com/aviihs/30daysCode/tree/main/10-Calender)
 
 ---
