@@ -37,7 +37,7 @@ This **Digital Clock App** displays the current time and date in real-time with 
 ✅ **Works on all devices** 📱💻  
 
 ## 🌐 Live Preview
-🔗 **Display Link:** [Digital Clock](https://digitalclock-pi-three.vercel.app/)  
+🔗 **Display Link:** [Digital Clock](https://digitalclock.bhusalshiva.com.np/)  
 
 ## 🔮 Future Enhancements
 🚀 **Dark Mode** for better nighttime usability 🌙  
