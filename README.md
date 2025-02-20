@@ -62,7 +62,7 @@ A real-time Digital Clock that displays the current time and date with a 12/24-h
 - ✅ Animated UI with smooth background transitions  
 - ✅ Responsive and user-friendly design  
 
-🔗 **Live Demo**: [Digital Clock App](https://digitalclock-pi-three.vercel.app/)  
+🔗 **Live Demo**: [Digital Clock App](https://digitalclock.bhusalshiva.com.np/)  
 📂 **Source Code**: [GitHub/DigitalClock](https://github.com/aviihs/30daysCode/tree/main/04-DigitalClock)
 
 ---
