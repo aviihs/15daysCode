@@ -139,14 +139,6 @@ A simple and interactive calendar that allows users to navigate months, view cur
 
 ---
 
-## 🛠️ What Happens After 30 Days?
-After completing the challenge, I’ll bundle everything into a **master repository**, including:
-- **Comprehensive documentation** for all projects  
-- **Advanced JavaScript best practices**  
-- **Real-world coding exercises**  
-
----
-
 ### 🚀 Day 11 and Beyond:
 The coding journey continues! Stay tuned for upcoming projects, including:
 - **Project Ideas**:  
@@ -155,6 +147,14 @@ The coding journey continues! Stay tuned for upcoming projects, including:
   - Real-time chat application 💬  
 
 These projects will push further into advanced JavaScript and full-stack development skills!
+
+---
+
+## 🛠️ What Happens After 30 Days?
+After completing the challenge, I’ll bundle everything into a **master repository**, including:
+- **Comprehensive documentation** for all projects  
+- **Advanced JavaScript best practices**  
+- **Real-world coding exercises**  
 
 ---
 
