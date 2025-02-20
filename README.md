@@ -96,7 +96,6 @@ A fun interactive Hoverboard effect where squares light up in different colors w
 📂 **Source Code**: [GitHub/Hoverboard](https://github.com/aviihs/30daysCode/tree/main/06-HoverBoard)
 
 ---
-
 ### 🌦 Day 7: Weather App
 A weather app that fetches real-time weather data using the **OpenWeatherMap API**.
 
@@ -125,11 +124,37 @@ A secure and efficient OTP & Password generator with clipboard functionality.
 
 ---
 
+### 📅 Day 10: Calendar App
+A simple and interactive calendar that allows users to navigate months, view current month and year, and jump to specific months.
+
+🔹 **Features:**
+- ✅ View current month and year 🗓️  
+- ✅ Navigate between months and years using next/previous buttons ⏪⏩  
+- ✅ Jump to any specific month and year with dropdowns 📅  
+- ✅ Highlight today's date 🌟  
+- ✅ Responsive design for all devices 📱💻
+
+🔗 **Live Demo**: [Calendar App](https://calendar-app-link.vercel.app/) (placeholder)  
+📂 **Source Code**: [GitHub/CalendarApp](https://github.com/aviihs/30daysCode/tree/main/10-CalendarApp)
+
+---
+
 ## 🛠️ What Happens After 30 Days?
 After completing the challenge, I’ll bundle everything into a **master repository**, including:
 - **Comprehensive documentation** for all projects  
 - **Advanced JavaScript best practices**  
 - **Real-world coding exercises**  
+
+---
+
+### 🚀 Day 11 and Beyond:
+The coding journey continues! Stay tuned for upcoming projects, including:
+- **Project Ideas**:  
+  - Task manager app 📝  
+  - Personal portfolio website 🌐  
+  - Real-time chat application 💬  
+
+These projects will push further into advanced JavaScript and full-stack development skills!
 
 ---
 
