@@ -75,7 +75,8 @@ This app combines a **Digital Clock**, **Analog Clock**, and a **Stopwatch** wit
 - ✅ 12-hour / 24-hour toggle for time formats  
 - ✅ Stopwatch with start, stop, and reset functionality  
 - ✅ Smooth and interactive UI with animations  
-- ✅ Current date displayed dynamically  
+- ✅ Current date displayed dynamically
+  
 
 🔗 **Live Demo**: [All-in-One Clock App](https://allclock.vercel.app/)  
 📂 **Source Code**: [GitHub/All-in-One Clock](https://github.com/aviihs/30daysCode/tree/main/05-AllClock)
