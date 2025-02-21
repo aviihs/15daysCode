@@ -2,7 +2,7 @@
 
 ## 🚀 **Welcome to Your Calculator App!**
 ### 🌟 **Developed by:** **Shiva Bhusal**  
-### 🎯 **Challenge:** **30-Day Coding Challenge** (Day 2 ✅ Successfully Completed!)
+### 🎯 **Challenge:** **15-Day Coding Challenge** (Day 2 ✅ Successfully Completed!)
 
 ---
 
