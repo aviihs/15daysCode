@@ -2,7 +2,7 @@
 
 ## ✨ Welcome to Your Calendar App!
 ### 🌟 Developed by: Shiva Bhusal
-### 🎯 Challenge: 30-Day Coding Challenge (Day 10 ✅ Successfully Completed!)
+### 🎯 Challenge: 15-Day Coding Challenge (Day 10 ✅ Successfully Completed!)
 
 ## 🌟 Overview
 This **Calendar App** is a simple and intuitive calendar interface that allows users to view the current month, navigate through months and years, and jump to a specific month and year. Built using **HTML, CSS, and JavaScript**, this app ensures a seamless user experience and efficient functionality.
