@@ -1,12 +1,12 @@
-# 🚀 30 Days - 30 Projects Challenge | The Ultimate Web Dev Sprint!
+# 🚀 15 Days - 15 Projects Challenge | The Ultimate Web Dev Sprint!
 
-Welcome to my **30 Days - 30 Projects Challenge!** 🎯
+Welcome to my **15 Days - 15 Projects Challenge!** 🎯
 
-In the next 30 days, I will be building and uploading a new project every single day using **HTML, CSS, and JavaScript**. The goal? To sharpen my skills, explore creative ideas, and push myself to master front-end development.
+In the next 15 days, I will be building and uploading a new project every single day using **HTML, CSS, and JavaScript**. The goal? To sharpen my skills, explore creative ideas, and push myself to master front-end development.
 
 ## 📌 Why This Challenge?
 ✅ **Practice makes perfect** – Coding every day will help me write cleaner, more efficient code.  
-✅ **Real-world experience** – By the end of this, I'll have 30 mini-projects that showcase my skills.  
+✅ **Real-world experience** – By the end of this, I'll have 15 mini-projects that showcase my skills.  
 ✅ **Consistency is key** – Building daily will make JavaScript feel like second nature.  
 
 ---
@@ -96,6 +96,7 @@ A fun interactive Hoverboard effect where squares light up in different colors w
 📂 **Source Code**: [GitHub/Hoverboard](https://github.com/aviihs/30daysCode/tree/main/06-HoverBoard)
 
 ---
+
 ### 🌦 Day 7: Weather App
 A weather app that fetches real-time weather data using the **OpenWeatherMap API**.
 
@@ -134,23 +135,39 @@ A simple and interactive calendar that allows users to navigate months, view cur
 - ✅ Highlight today's date 🌟  
 - ✅ Responsive design for all devices 📱💻
 
-🔗 **Live Demo**: [Calendar App](https://calender-rouge.vercel.app/)   
+🔗 **Live Demo**: [Calendar App](https://calender-rouge.vercel.app/)  
 📂 **Source Code**: [GitHub/CalendarApp](https://github.com/aviihs/30daysCode/tree/main/10-Calender)
 
 ---
 
-### 🚀 Day 11 and Beyond:
-The coding journey continues! Stay tuned for upcoming projects, including:
-- **Project Ideas**:  
-  - Task manager app 📝  
-  - Personal portfolio website 🌐  
-  - Real-time chat application 💬  
+### 🎨 Day 11: Random Color Generator  
+An interactive tool to generate random colors, display RGB & HEX values, and fine-tune colors using sliders.
 
-These projects will push further into advanced JavaScript and full-stack development skills!
+🔹 **Features:**
+- ✅ Generate random colors 🎲  
+- ✅ Display HEX & RGB values 🎨  
+- ✅ Adjust colors using sliders 🎛  
+- ✅ Dynamic background updates 🖌  
+- ✅ Interactive & modern UI ✨  
+
+🔗 **Live Demo**: [Random Color Generator](#)  
+📂 **Source Code**: [GitHub/RandomColorGenerator](https://github.com/aviihs/30daysCode/tree/main/11-ColorGenerator)  
 
 ---
 
-## 🛠️ What Happens After 30 Days?
+### 🚀 Day 12 and Beyond:
+The coding journey continues! Upcoming projects will explore more advanced JavaScript and UI/UX design.
+
+🔹 **Planned Projects:**
+- **Task Manager App** 📝  
+- **Personal Portfolio Website** 🌐  
+- **Mini JavaScript Games (Tic-Tac-Toe, Memory Game, etc.)** 🎮  
+
+These projects will enhance **JavaScript, API handling, full-stack development**, and **UI/UX skills**!
+
+---
+
+## 🛠️ What Happens After 15 Days?
 After completing the challenge, I’ll bundle everything into a **master repository**, including:
 - **Comprehensive documentation** for all projects  
 - **Advanced JavaScript best practices**  
