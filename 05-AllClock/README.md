@@ -2,7 +2,7 @@
 
 ## 🚀 Welcome to Your All-in-One Clock App!
 ### 🌟 Developed by: Shiva Bhusal
-### 🎯 Challenge: 30-Day Coding Challenge (Day 5 ✅ Successfully Completed!)
+### 🎯 Challenge: 15-Day Coding Challenge (Day 5 ✅ Successfully Completed!)
 
 ## 🌟 Overview
 This **All-in-One Clock App** combines both a **Digital Clock** and an **Analog Clock** with an additional **Stopwatch** feature. It displays the current time and date, allowing users to switch between **12-hour** and **24-hour** formats. Built using **HTML, CSS, and JavaScript**, it provides a fully interactive experience with sleek animations.
