@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 10 || Random Color Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="icon" href="https://w7.pngwing.com/pngs/306/239/png-transparent-rainbow-circle-circle-spiral-symmetry-computer-wallpaper-thumbnail.png">
+</head>
+<body>
+    <nav id="Heading">
+        <strong> <p id="Text">Random Color Generator</p> </strong>
+    </nav>
+    <div class="container">
+        <span id="color-text">Black</span>&nbsp;&nbsp; 
+        <span id="color-value">#000000</span>
+    </div>
+    <div class="container">
+        <div id="Color"></div>
+    </div>
+    
+    <div class="container">
+        <div>
+            <label for="red">Red:</label> <span id="red-value">0</span>
+            <input type="range" id="red" min="0" max="255" value="0">
+        </div>
+        <div>
+            <label for="green">Green:</label><span id="green-value">0</span>
+            <input type="range" id="green" min="0" max="255" value="0">
+        </div>
+        <div>
+            <label for="blue">Blue:</label><span id="blue-value">0</span>
+            <input type="range" id="blue" min="0" max="255" value="0">
+        </div>
+    </div>
+
+    <div class="button">
+        <button class="btn" id="b1">Generate</button>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 | Designed by Shiva 
+            <a href="https://www.instagram.com/av_ihs/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.github.com/aviihs"><i class="fa-brands fa-github"></i></a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
