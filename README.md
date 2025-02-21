@@ -150,7 +150,7 @@ An interactive tool to generate random colors, display RGB & HEX values, and fin
 - ✅ Dynamic background updates 🖌  
 - ✅ Interactive & modern UI ✨  
 
-🔗 **Live Demo**: [Random Color Generator](#)  
+🔗 **Live Demo**: [Random Color Generator](https://aviihs.github.io/15daysCode/11-ColorGenerator/)  
 📂 **Source Code**: [GitHub/RandomColorGenerator](https://github.com/aviihs/30daysCode/tree/main/11-ColorGenerator)  
 
 ---
