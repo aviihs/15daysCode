@@ -2,7 +2,7 @@
 
 ## ✨ Welcome to Your OTP & Password Generator App!
 ### 🌟 Developed by: Shiva Bhusal
-### 🎯 Challenge: 30-Day Coding Challenge (Day 8 & Day 9 ✅ Successfully Completed!)
+### 🎯 Challenge: 15-Day Coding Challenge (Day 8 & Day 9 ✅ Successfully Completed!)
 
 ## 🌟 Overview
 This **OTP & Password Generator App** allows users to generate secure, random OTPs (One-Time Passwords) and strong passwords. Built using **HTML, CSS, and JavaScript**, this app ensures security, reliability, and ease of use.
