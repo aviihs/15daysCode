@@ -1,7 +1,7 @@
 # 🎨 Random Color Generator | Day 11 Completed ✅
 
 ### 🌟 Developed by: Shiva Bhusal  
-### 🎯 Challenge: 30-Day Coding Challenge (Day 11 ✅ Successfully Completed!)
+### 🎯 Challenge: 15-Day Coding Challenge (Day 11 ✅ Successfully Completed!)
 
 ## 🌟 Overview
 This **Random Color Generator** is a fun and interactive tool that generates random colors, displays their **RGB and HEX** values, and allows users to fine-tune colors using sliders.  
@@ -43,7 +43,7 @@ Built using **HTML, CSS, and JavaScript**, this project helps in understanding c
 - ✅ **Great for UI/UX & Frontend Practice** 🚀  
 
 ## 🌐 Live Preview
-🔗 **Demo Link:** [Random Color Generator](#)  
+🔗 **Demo Link:** [Random Color Generator](https://aviihs.github.io/15daysCode/11-ColorGenerator/)  
 
 ## 🔮 Future Enhancements
 - 🚀 **Save Favorite Colors** for later use 💾  
