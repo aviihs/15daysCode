@@ -2,7 +2,7 @@
 
 ## 🚀 Welcome to Your Stopwatch App!
 ### 🌟 Developed by: **Shiva Bhusal**  
-### 🎯 Challenge: **30-Day Coding Challenge** (Day 3 ✅ Successfully Completed!)  
+### 🎯 Challenge: **15-Day Coding Challenge** (Day 3 ✅ Successfully Completed!)  
 
 ---
 
