@@ -1,7 +1,7 @@
 # 📝 OTP & Password Generator - Day 9 Documentation
 
 ## 🌟 Welcome to the OTP & Password Generator App (Day 9)!
-### 🎯 Challenge: 30-Day Coding Challenge (Day 9 ✅ Successfully Completed!)
+### 🎯 Challenge: 15-Day Coding Challenge (Day 9 ✅ Successfully Completed!)
 
 ## 📌 Overview
 This repository contains the **README documentation only** for **Day 9** of the challenge. The full project code is available in the **Day 8 repository** since this day focused on final testing, improvements, and deployment.
