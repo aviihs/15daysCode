@@ -2,7 +2,7 @@
 
 ## 🚀 Welcome to Your Digital Clock App!
 ### 🌟 Developed by: Shiva Bhusal
-### 🎯 Challenge: 30-Day Coding Challenge (Day 4 ✅ Successfully Completed!)
+### 🎯 Challenge: 15-Day Coding Challenge (Day 4 ✅ Successfully Completed!)
 
 ## 🌟 Overview
 This **Digital Clock App** displays the current time and date in real-time with an option to toggle between **12-hour** and **24-hour** formats. Built using **HTML, CSS, and JavaScript**, it provides an interactive and visually appealing experience.
