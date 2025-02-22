@@ -1,4 +1,3 @@
-// Remove duplicate words declaration if already defined elsewhere
 const wordText = document.querySelector('.word'),
 hintText = document.querySelector('.hint'),
 timerText = document.querySelector('.time b'),
@@ -9,7 +8,7 @@ checkBtn = document.querySelector('.check-word');
 let correctWord, timer;
 
 const initTimer = maxTime => {
-    clearInterval(timer); // Reset timer before starting new one
+    clearInterval(timer); 
     timerText.innerText = maxTime;
     
     timer = setInterval(() => {
@@ -25,7 +24,7 @@ const initTimer = maxTime => {
 };
 
 const initGame = () => {
-    let randomObject = words[Math.floor(Math.random() * words.length)]; // words array is already defined somewhere
+    let randomObject = words[Math.floor(Math.random() * words.length)];
     let wordArray = randomObject.word.split('');
 
     for (let i = wordArray.length - 1; i > 0; i--) {
@@ -44,7 +43,7 @@ const initGame = () => {
 
 inputField.addEventListener("keypress", (event) => {
     if (event.key === "Enter") {
-        checkBtn.click(); // Check button click garne jasto behavior
+        checkBtn.click(); 
     }
 });
 
