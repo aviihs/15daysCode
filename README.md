@@ -155,7 +155,22 @@ An interactive tool to generate random colors, display RGB & HEX values, and fin
 
 ---
 
-### 🚀 Day 12 and Beyond:
+### 📅 Day 12: Word Scramble Game
+A fun and engaging word scramble game where users try to guess the correct word from a scrambled set of letters.
+
+🔹 **Features:**
+- ✅ Randomly generated scrambled words 🔀  
+- ✅ Hints provided for each word 💡  
+- ✅ Timer-based challenge ⏳  
+- ✅ User input validation ✍️  
+- ✅ Interactive & modern UI 🎨  
+
+🔗 **Live Demo**: [Word Scramble Game](https://your-live-demo-link.com)  
+📂 **Source Code**: [GitHub/WordScrambleGame](https://github.com/aviihs/30daysCode/tree/main/12-WordScramble)  
+
+---
+
+### 🚀 Day 13 and Beyond:
 The coding journey continues! Upcoming projects will explore more advanced JavaScript and UI/UX design.
 
 🔹 **Planned Projects:**
