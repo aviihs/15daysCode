@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #8c52ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 1rem;
+}
+
+#container {
+    background-color: #fff;
+    width: 90vw;
+    max-width: 34em;
+    padding: 2em;
+    border-radius: 0.5rem;
+    box-shadow: 0 1.2em 2.4em rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+#options-container {
+    margin-bottom: 1rem;
+}
+
+#options-container h3 {
+    margin-bottom: 0.5rem;
+    font-size: 1.2em;
+}
+
+#options-container div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.8em;
+}
+
+#options-container button {
+    padding: 0.6em 1.2em;
+    border: none;
+    background-color: #8c52ff;
+    color: #fff;
+    border-radius: 0.3em;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#options-container button:hover {
+    background-color: #6a33cc;
+}
+
+.letter-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5em;
+    margin-top: 1rem;
+}
+
+#letter-container button {
+    height: 2.5em;
+    width: 2.5em;
+    border-radius: 0.3em;
+    background-color: #ffffff;
+    cursor: pointer;
+    border: 2px solid #8c52ff;
+    font-weight: bold;
+}
+
+#letter-container button:hover {
+    background-color: #8c52ff;
+    color: white;
+}
+
+#user-input-section {
+    font-size: 1.8em;
+    margin: 1rem 0;
+}
+
+canvas {
+    display: block;
+    margin: 1rem auto;
+    border: 5px solid #8c52ff;
+    border-radius: 10px;
+}
+
+#new-game-container {
+    display: none;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#new-game-container h2 {
+    font-size: 1.8em;
+}
+
+#new-game-container p {
+    font-size: 1.25em;
+    margin: 1em 0 2em 0;
+}
+
+#new-game-button {
+    font-size: 1.2em;
+    padding: 0.6em 1.2em;
+    background-color: #8c52ff;
+    color: white;
+    border: none;
+    border-radius: 0.3em;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#new-game-button:hover {
+    background-color: #6a33cc;
+}
+
+.win-msg {
+    color: #39d78d;
+}
+
+.lose-msg {
+    color: #fe5152;
+}
+
+.hide {
+    display: none;
+}
