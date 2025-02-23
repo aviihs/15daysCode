@@ -1,4 +1,4 @@
-# 🚀 Text Scrambler 2.0 | Day 13 Completed ✅  
+# 🚀 Hangman | Day 13 Completed ✅  
 
 ## 🌟 Developed by: Shiva Bhusal  
 ## 🎯 Challenge: 15-Day Coding Challenge (Day 13 ✅ Successfully Completed!)  
@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Overview  
-This **Text Scrambler 2.0** is an upgraded version of the previous scrambler game with enhanced features! Built using **HTML, CSS, and JavaScript**, it provides a more engaging experience by introducing **difficulty levels, score tracking, and improved UI animations**.  
+This **Hangman** is an upgraded version of the previous scrambler game with enhanced features! Built using **HTML, CSS, and JavaScript**, it provides a more engaging experience by introducing **difficulty levels, score tracking, and improved UI animations**.  
 
 ---
 
@@ -53,7 +53,7 @@ This **Text Scrambler 2.0** is an upgraded version of the previous scrambler gam
 ---
 
 ## 🌐 Live Preview  
-🔗 **Demo Link:** [Text Scrambler 2.0](https://aviihs.github.io/15daysCode/13-TextScrambler2/)  
+🔗 **Demo Link:** [Hangman](https://aviihs.github.io/15daysCode/13-TextScrambler2/)  
 
 ---
 
@@ -68,7 +68,7 @@ This **Text Scrambler 2.0** is an upgraded version of the previous scrambler gam
 
 ## 🎉 Conclusion  
 🌟 **Day 13 Successfully Completed!** 🌟  
-This upgraded version of the **Text Scrambler Game** was a great way to implement **difficulty-based logic, scoring systems, and enhanced UI interactivity**. Looking forward to the next challenge! 🚀💪  
+This upgraded version of the **Hangman Game** was a great way to implement **difficulty-based logic, scoring systems, and enhanced UI interactivity**. Looking forward to the next challenge! 🚀💪  
 
 ---  
 **Happy Coding!** 🎯🔥  
