@@ -170,32 +170,49 @@ A fun and engaging word scramble game where users try to guess the correct word 
 
 ---
 
-### 🚀 Day 13 and Beyond:
-The coding journey continues! Upcoming projects will explore more advanced JavaScript and UI/UX design.
+### 📅 Day 13: Hangman Game 🏹  
+An interactive **Hangman Game** where players guess a hidden word letter by letter before running out of attempts!  
 
-🔹 **Planned Projects:**
-- **Task Manager App** 📝  
-- **Personal Portfolio Website** 🌐  
+🔹 **Features:**  
+- ✅ **Random Word Selection** from a predefined list 📜  
+- ✅ **Limited Attempts** (6 lives) ⚠️  
+- ✅ **Dynamic Hangman Drawing** ✏️  
+- ✅ **Hint System for Assistance** 💡  
+- ✅ **Keyboard Input Support** ⌨️  
+- ✅ **Modern UI with Animations** 🎨  
+- ✅ **Winning & Losing Alerts** 🎉  
+
+🔗 **Live Demo**: [Hangman Game](https://your-live-demo-link.com)  
+📂 **Source Code**: [GitHub/HangmanGame](https://github.com/aviihs/30daysCode/tree/main/13-Hangman)  
+
+---  
+
+### 🚀 Day 14 and Beyond:  
+The journey continues with even more **interactive and challenging projects**!  
+
+🔹 **Planned Projects:**  
+- **Task Manager App with Local Storage** 📝  
+- **Personal Portfolio Website with Animations** 🌐  
 - **Mini JavaScript Games (Tic-Tac-Toe, Memory Game, etc.)** 🎮  
 
-These projects will enhance **JavaScript, API handling, full-stack development**, and **UI/UX skills**!
+These projects will focus on **JavaScript logic, API integration, UI/UX design**, and **full-stack development**!  
 
----
+---  
 
-## 🛠️ What Happens After 15 Days?
-After completing the challenge, I’ll bundle everything into a **master repository**, including:
-- **Comprehensive documentation** for all projects  
-- **Advanced JavaScript best practices**  
-- **Real-world coding exercises**  
+## 🛠️ What Happens After 15 Days?  
+Once the challenge is completed, I’ll organize all projects into a **master repository**, including:  
+- 📜 **Comprehensive documentation** for every project  
+- 🏆 **Best JavaScript practices & optimization techniques**  
+- 🛠️ **Real-world coding exercises** for beginners & advanced learners  
 
----
+---  
 
-## 🚀 Follow My Journey!
-If you want to learn JavaScript, improve your front-end skills, or just see what I build, feel free to follow this repo! 🌟
+## 🚀 Follow My Journey!  
+If you love coding, JavaScript, and front-end development, feel free to connect! 🚀🔥  
 
 🔹 **Connect With Me:**  
 📧 **Email**: bhusalshiva010@gmail.com  
 📸 **Instagram**: [Shiva Bhusal](https://www.instagram.com/av_ihs_/)  
-👨‍💻 **GitHub**: [aviihs ❤️](https://github.com/aviihs)
+👨‍💻 **GitHub**: [aviihs ❤️](https://github.com/aviihs)  
 
-Stay tuned for more daily uploads! Let’s code, learn, and grow together! 🚀🔥
+Stay tuned for daily updates! Let’s **code, learn, and build** together! 🚀🔥  
