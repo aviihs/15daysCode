@@ -4,6 +4,7 @@ Welcome to my **15 Days - 15 Projects Challenge!** 🎯
 
 In the next 15 days, I will be building and uploading a new project every single day using **HTML, CSS, and JavaScript**. The goal? To sharpen my skills, explore creative ideas, and push myself to master front-end development.
 
+
 ## 📌 Why This Challenge?
 ✅ **Practice makes perfect** – Coding every day will help me write cleaner, more efficient code.  
 ✅ **Real-world experience** – By the end of this, I'll have 15 mini-projects that showcase my skills.  
